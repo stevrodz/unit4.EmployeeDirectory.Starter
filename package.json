@@ -1,10 +1,9 @@
 {
-  "name": "31-acme_employees",
+  "name": "31-employee_directory",
   "version": "1.0.0",
-  "description": "The Acme Company wants to create an application that allows them to manage their employees. You are tasked with creating the proof-of-concept API with placeholder data.",
+  "description": "A local organization wants to create an application that allows them to manage their employees. You are tasked with creating a proof-of-concept API using placeholder data.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
